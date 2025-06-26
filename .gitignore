@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Gastos.db
+build/
+dist/
+gastos.spec
